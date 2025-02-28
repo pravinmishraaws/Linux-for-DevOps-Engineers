@@ -1,4 +1,4 @@
-# Linux-for-Cloud-Engineers-A-Complete-Project-Based-Learning
+# Linux-for-DevOps-Engineers-A-Complete-Project-Based-Learning
 
 📖 A practical hands-on companion repository for the Udemy course
 **[Linux for Cloud Engineers: A Complete Project Based Learning](https://www.udemy.com/course/linux-for-cloud-engineers-a-complete-project-based-learning/?referralCode=9209159005B8D7A6B399)"** by **Pravin Mishra**
